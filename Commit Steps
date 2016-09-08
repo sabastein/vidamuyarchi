@@ -1,0 +1,7 @@
+Get it to the folder from wher u have to commit
+
+1. git init
+2. git add .
+3. git commit -m "Commit Message"
+4. git remote add origin https://github.com/sabastein/munpathivu.git
+5. git pust -f origin master
